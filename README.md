@@ -1,11 +1,11 @@
 # Todo list
 Приложение- список дел
 
-![image](https://github.com/ajuraI/todo-list/blob/main/screenshots/Screenshot_4.png)
-================================
 ![image](https://github.com/ajuraI/todo-list/blob/main/screenshots/Screenshot_1.png)
 ================================
 ![image](https://github.com/ajuraI/todo-list/blob/main/screenshots/Screenshot_2.png)
+================================
+![image](https://github.com/ajuraI/todo-list/blob/main/screenshots/Screenshot_4.png)
 
 ### Основной функционал
 - Реализован с применением библиотеки React
